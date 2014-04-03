@@ -1,0 +1,27 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: jwasm202.zip
+       Short Description: MASM-compatible assembler
+        Long Description: (none)
+
+      Proposed directory
+           for placement: pub/os2/dev/asm
+               Your name: Dave Yeo 
+           Email address: dave.r.yeo@gmail.com
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: http://www.japheth.de/JWasm.html 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 32 bit OS/2
+ Additional requirements: 
+
+                Replaces: (none)
+
+
+
+
